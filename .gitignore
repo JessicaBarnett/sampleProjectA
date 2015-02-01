@@ -1,0 +1,5 @@
+#ignore OSX Finder artifacts
+.DS_Store
+
+#ignore node modules
+/node_modules
