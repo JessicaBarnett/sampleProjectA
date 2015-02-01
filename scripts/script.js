@@ -1,5 +1,7 @@
 $(document).ready(function(){
 
+  // Renders 2 sample templates.
+  
   function userTable() {
     var data = { users: [
                   {username: "alan", firstName: "Alan", lastName: "Johnson", email: "alan@test.com" },
